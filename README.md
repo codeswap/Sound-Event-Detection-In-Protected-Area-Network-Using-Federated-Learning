@@ -1,6 +1,6 @@
 # Sound Event Detection in Protected Area Network Using Federated Learning
 
-![Project Banner](SED ROI.png)
+![Project Banner](/SED ROI.png)
 
 ## 📌 Project Overview
 This project focuses on detecting sound events in a protected area network using **Federated Learning**. It ensures **privacy** by training models across decentralized devices without sharing raw data, thus maintaining data confidentiality and security.
